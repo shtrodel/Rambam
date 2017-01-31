@@ -1,0 +1,8 @@
+div.Mizmor {
+   word-wrap: break-word;
+   width: 200px;
+}
+phrase {
+    color: red;
+    font-weight: bold;
+}
